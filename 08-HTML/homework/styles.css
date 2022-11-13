@@ -1,0 +1,31 @@
+body {
+  background-image: url("https://cdn.britannica.com/36/123536-050-95CB0C6E/Variety-fruits-vegetables.jpg");
+}
+h1 {
+  color: darkorange;
+}
+.spanId {
+	font-size: 18px;
+}
+.thirdDiv {	
+				width:500px;
+				height:600px;
+				margin:auto;
+				background-color: antiquewhite;
+				border-width: 3px;
+				border-style: dashed;
+				border-color: darkgreen;
+				padding: 50px;
+				text-align: center;
+}
+.divClass {	
+				width:400px;
+				margin:auto;
+				border-style: solid;
+				border-color: black;
+				text-align: center;
+}
+img {
+	width: 400px;
+}
+/* Class (.imageClass) prevails over the attribute (img) */
